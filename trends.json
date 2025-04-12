@@ -1,0 +1,44 @@
+[
+    {
+        "q": "AI-Driven Content Creation Agency",
+        "title": "AI-Driven Content Creation Agency",
+        "type": "Search term",
+        "link": "https://trends.google.com/trends/explore?q=AI-Driven Content Creation Agency",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=AI-Driven+Content+Creation+Agency&tz=420"
+    },
+    {
+        "q": "/g/11w3mcxf15",
+        "title": "THE ROBOT REBELLION",
+        "type": "Book by DONALD P. ROBIN",
+        "link": "https://trends.google.com/trends/explore?q=/g/11w3mcxf15",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11w3mcxf15&tz=420"
+    },
+    {
+        "q": "/g/11w1cn01nr",
+        "title": "The Robot Rebellion",
+        "type": "Topic",
+        "link": "https://trends.google.com/trends/explore?q=/g/11w1cn01nr",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11w1cn01nr&tz=420"
+    },
+    {
+        "q": "/g/11wvztkqsk",
+        "title": "THE ROBOT REBELLION",
+        "type": "Topic",
+        "link": "https://trends.google.com/trends/explore?q=/g/11wvztkqsk",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11wvztkqsk&tz=420"
+    },
+    {
+        "q": "/m/07pzw",
+        "title": "The Picture of Dorian Gray",
+        "type": "Novel by Oscar Wilde",
+        "link": "https://trends.google.com/trends/explore?q=/m/07pzw",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F07pzw&tz=420"
+    },
+    {
+        "q": "/m/099yl",
+        "title": "Paradise Lost",
+        "type": "Poem by John Milton",
+        "link": "https://trends.google.com/trends/explore?q=/m/099yl",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F099yl&tz=420"
+    }
+]

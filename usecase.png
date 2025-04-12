@@ -1,0 +1,24 @@
+digraph UseCaseDiagram {
+	BA [label="Business Analyst" shape=actor]
+	MGR [label="Manager/Executive" shape=actor]
+	SYS [label="AI Model" shape=actor]
+	DS [label="Data Source" shape=actor]
+	U1 [label="Upload Business Data" shape=ellipse]
+	U2 [label="Generate Forecast" shape=ellipse]
+	U3 [label="View Insights & Reports" shape=ellipse]
+	U4 [label="Adjust Forecast Parameters" shape=ellipse]
+	U5 [label="Export Reports" shape=ellipse]
+	U6 [label="Compare Historical vs. Predicted Data" shape=ellipse]
+	BA -> U1
+	BA -> U2
+	BA -> U3
+	BA -> U4
+	BA -> U5
+	BA -> U6
+	MGR -> U2
+	MGR -> U3
+	MGR -> U5
+	SYS -> U2
+	SYS -> U6
+	DS -> U1
+}
